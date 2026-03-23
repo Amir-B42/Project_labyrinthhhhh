@@ -23,8 +23,10 @@ blok template[] = ;
 
 lab create(){
     lab labyrinthe = malloc(sizeof(blok)*p*q); //flemme de faire une matrice, down = ind + q
-    
-    return ;    
+    return labyrinthe ;    
+}
+
+lab init(lab labyrinthe) {
 }
 
 bool is_real(lab ){
