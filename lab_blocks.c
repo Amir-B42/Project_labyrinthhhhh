@@ -13,7 +13,7 @@
 /*idées : au lieu d'un quintuplet, tt sur 8 bits  
 Faut des contraintes -> (pas de 2x2 blanc, solvable ou pas, pas de cases isolées,...)
 */
-
+//ahhhhhhhhhhhhhhhhh
 int p = 10;
 int q = 10;
 
