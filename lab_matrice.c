@@ -39,7 +39,7 @@ bool is_real_mat(lab laby, int p, int q, int start){
     /*Contraintes :
     à partir de start, existe un chemin vers une sortie
     IN : un labyrinthe et un point de départ
-    OUT : true si il existe une solution
+    OUT : true s'il existe une solution
     */
    //Tactique de aller à droite ?
    int nb_voisins = 0;
