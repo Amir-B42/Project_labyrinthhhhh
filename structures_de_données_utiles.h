@@ -6,5 +6,5 @@ void enfiler(File* file,int e);
 int defiler(File* file);
 
 Pile* init_pile(int len_max);
-void enpiler(Pile* pile; int e);
+void empiler(Pile* pile; int e);
 int depiler(Pile* pile);
