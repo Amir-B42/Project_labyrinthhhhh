@@ -15,7 +15,7 @@ lab create_mat(int p, int q){
     return labyrinthe;    
 }
 
-lab init_mat(int p, int q){
+lab init_mat(int p, int q){ /*création des cases et des murs*/ 
 
 }
 
