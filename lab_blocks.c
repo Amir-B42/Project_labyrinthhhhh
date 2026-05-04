@@ -35,6 +35,7 @@ lab create_blocks(){ //création de la base
 }
 
 lab init_blocks(lab labyrinthe){ //placement des murs, de la/les sortie(s), (cases spéciales ?), 
+    lab laby = create_blocks() ;
     
 }
 
@@ -104,8 +105,6 @@ let backtrack pb =
   | false -> None ;;
   
 */
-
-
 
 
 
